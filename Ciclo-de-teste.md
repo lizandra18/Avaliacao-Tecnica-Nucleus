@@ -1,15 +1,16 @@
-- **Ciclo de Teste #1**
+**Ciclo de Teste**
 
-- **Nome** <br> Ciclo #1 - Funcional <p>
+**01) Informações Gerais** <br>
+- **Visão Geral** <br>
+   Ciclo de Teste para esclarecer a todos os envolvidos o que será testado.
+- **Identificador Único/Versão** <br>
+   #1
 
-- **Objetivo** <br>
-   Teste Funcional <p>
+- **Responsável** <br>
+   Carla Lizandra
 
-- **Versão** <br>
-   1.0 <p>
-
-- **Proprietário** <br>
-  Carla Lizandra <p>
+- **Aprovadores** <br>
+   Victor Santos
 
 - **Data planejada de início** <br>
    15/09/2022 <p>
