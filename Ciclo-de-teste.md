@@ -1,7 +1,5 @@
 **Ciclo de Teste**
 
-****
-
 **01) Informações Gerais** <br>
 - **Visão Geral** <br>
    Ciclo de Teste para esclarecer a todos os envolvidos o que será testado.
@@ -25,8 +23,7 @@
 
 **02) Contexto do Teste** <br>
 - **Aplicação/Plataforma a ser testada** <br>
-   steam
-- **Escopo do Teste** <br>
-   Serão testados: <br>
-   Login <p>
-   Busca de Produto <p>
+   [Fla Barcelos Art](https://www.flabarcellosart.com.br/) 
+
+- **Estratégia de Teste** <br>
+   Heurística CHIQUE

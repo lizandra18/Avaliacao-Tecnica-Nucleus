@@ -1,29 +1,21 @@
 **Caso de Teste**
 
-****
 **01) Itens de cobertura de teste** <br>
 - **Identificador único** <br>
-    #1 <p>
+    #1
 - **Descrição** <br>
-    <p>
-- **Prioridade** <br>
-    <p>
-- **Rastreabilidade** <br>
-    <p>
+    Verificar através de um teste exploratório como a aplicação responde à algumas atividades especificas feitas guiadas pela heuristica CHIQUE
+
  **02) Casos de Teste** <br>
  - **Identificador único** <br>
-    #1 <p>
+    #1 
+
 - **Objetivo** <br>
-    <p>
-- **Prioridade** <br>
-    <p>
-- **Rastreabilidade** <br>
-    <p>
-- **Condições Prévias** <br>
-    <p>
-- **Entradas** <br>
-    <p>
-- **Resultados Esperados** <br>
-    <p>
-- **Resultados atuais e resultado do teste** <br>
-    <p>
+    C - Campos Obrigatórios <br>
+    Verificar o comportamento do site ao deixar de preencher campos obrigatórios
+
+    U - Usabilidade dos menus <br>
+    Verificar o comportamento dos botões e menus do site
+
+    E - Estouro de Campos <br>
+    Verificar o comportamento do site ao inserir nos campos uma grande quantidade de caracteres
