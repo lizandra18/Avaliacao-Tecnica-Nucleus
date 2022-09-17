@@ -11,20 +11,20 @@
     #1 
 
 - **Objetivo** <br>
-    C - Campos Obrigatórios <br>
+    **C** - Campos Obrigatórios <br>
     Verificar o comportamento do site ao deixar de preencher campos obrigatórios
 
-    H - Habilitar/Desabilitar formulários <br>
+    **H** - Habilitar/Desabilitar formulários <br>
     N/A
 
-    I - Interrupção de Ação <br>
+    **I** - Interrupção de Ação <br>
     N/A
 
-    Q - Quebra de Fluxo <br>
+    **Q** - Quebra de Fluxo <br>
     N/A
 
-    U - Usabilidade dos menus <br>
+    **U** - Usabilidade dos menus <br>
     Verificar o comportamento dos botões e menus do site
 
-    E - Estouro de Campos <br>
+    **E** - Estouro de Campos <br>
     Verificar o comportamento do site ao inserir nos campos uma grande quantidade de caracteres
