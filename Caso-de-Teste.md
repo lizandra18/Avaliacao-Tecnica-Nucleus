@@ -14,6 +14,15 @@
     C - Campos Obrigatórios <br>
     Verificar o comportamento do site ao deixar de preencher campos obrigatórios
 
+    H - Habilitar/Desabilitar formulários <br>
+    N/A
+
+    I - Interrupção de Ação <br>
+    N/A
+
+    Q - Quebra de Fluxo <br>
+    N/A
+
     U - Usabilidade dos menus <br>
     Verificar o comportamento dos botões e menus do site
 
