@@ -68,7 +68,7 @@
     8. A tela "quebra" e mostra a mensagem 'Erro-404' <br><br> 
 
 - **Evidências** <br>
-    Screenshot (erro404.png) <br>
+    Screenshot [erro404.png](https://github.com/lizandra18/Avaliacao-Tecnica-Nucleus/blob/main/Relatorios-de-Testes/Evidencias/erro404.png) <br>
 
 - **Severidade** <br>
     Baixa <br>
@@ -91,7 +91,7 @@
     9. Ao atualizar a página ela continuou do mesmo jeito, mas ao clicar em voltar para a pagina anterior ela volta para a pagina de edição de dados <br><br>
 
 - **Evidências** <br>
-    Screenshot (problemaNoServidor.png) <br>
+    Screenshot [problemaNoServidor.png](https://github.com/lizandra18/Avaliacao-Tecnica-Nucleus/blob/main/Relatorios-de-Testes/Evidencias/problemaNoServidor.png) <br>
 
 - **Severidade** <br>
     Baixa <br>
@@ -110,7 +110,7 @@
     1. Ao redirecionar a aplicação, em determinado momento, o elemento de usuário sobrepoem o de atendimento com os nomes ficando em cima do outro <br><br>
 
 - **Evidências** <br>
-    Screenshot (bugResponsividade.png) <br>
+    Screenshot [bugResponsividade.png](https://github.com/lizandra18/Avaliacao-Tecnica-Nucleus/blob/main/Relatorios-de-Testes/Evidencias/bugResponsividade.png) <br>
 
 - **Severidade** <br>
     Baixa <br>
@@ -129,7 +129,8 @@
     4. Ao tentar definir os dados da entrega ele retorna uma mensagem de erro: "Não há opções de envio para este endereço"
 
 - **Evidências** <br>
-    Screenshot (quantidadeDeProdutos.png, quantidadeDeProdutos.png) <br>
+    Screenshot [quantidadeDeProdutos.png](https://github.com/lizandra18/Avaliacao-Tecnica-Nucleus/blob/main/Relatorios-de-Testes/Evidencias/quantidadeDeProdutos.png) <br>
+    Screenshot [quantidadeDeProdutos-2.png](https://github.com/lizandra18/Avaliacao-Tecnica-Nucleus/blob/main/Relatorios-de-Testes/Evidencias/quantidadeDeProdutos-2.png) <br>
 
 - **Severidade** <br>
     Baixa <br>
